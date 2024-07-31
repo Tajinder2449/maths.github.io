@@ -5,3 +5,5 @@
 * $\int_a^b\{f(x)dx}$ = $\int_b^a\{f(x)dx}$
 
 $A = \int_1^4\frac{x^2}{x}dx$
+
+$A = \int_1^4 \frac{x^2}{x} dx$
